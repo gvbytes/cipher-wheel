@@ -1,7 +1,7 @@
-# 🔏 Caesar & Vigenère Cipher Breaker (`cipher_breaker.py`)
+# Cipher Wheel
 
-## 💡 What is it?
-This tool is an interactive cryptographic suite that encrypts, decrypts, and brute-force cracks messages encoded with classic substitution ciphers.
+## What it does
+Cipher Wheel is a small terminal lab for Caesar and Vigenere ciphers. It encrypts, decrypts, and brute-forces classic substitution ciphers so you can see how old-school cryptography behaves in practice.
 
 ---
 
